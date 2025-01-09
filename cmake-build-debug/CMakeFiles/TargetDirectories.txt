@@ -1,0 +1,3 @@
+/Users/kanis/ECE141b/kanishka-roy-ece141b-final/cmake-build-debug/CMakeFiles/ECE141db.dir
+/Users/kanis/ECE141b/kanishka-roy-ece141b-final/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kanis/ECE141b/kanishka-roy-ece141b-final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
