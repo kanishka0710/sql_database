@@ -1,3 +1,0 @@
-I did #1 and #3. For #1, it was a pretty basic approach where I first inputed the basic create and use commands. Then I iterated through the schema and inputted each attribute as a string in a very detailed manner. Then I used the TOC to go through each row of the respective table to get the row data. I read through each row and inputted the data into the stream. 
-
-For #3, I simply added fields into our DBQuery command and adjusted our SQL parser to parse these commands. Then I added fields on the bottom of our select processor to display the count view type if count was valid. This was fairly easy given our architecture since all I had to add was some if statements. 
